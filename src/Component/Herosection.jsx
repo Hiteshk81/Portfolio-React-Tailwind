@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-             Computer Science Engineering fresher with Effective problem-solving skills and a good grasp of core CS subjects.
+             Computer Science Engineering student with Effective problem-solving skills and a good grasp of core CS subjects.
 Eager to learn, explore new technologies, and build real-world projects.
           </p>
 
