@@ -11,18 +11,14 @@ const projects = [
     id: 2,
     title: "QuickChat – Real-Time Messaging Platform",
     description:
-      "Developed a real-time chat web application using MERN stack with Socket.io for instant messaging.
-      Built a secure user authentication system with JWT tokens and password encryption to ensure safe login and registration.
-      Integrated Cloudinary for media storage and designed a responsive, user-friendly interface for smooth chatting experience.",
+      "Developed a real-time chat web application using MERN stack with Socket.io for instant messaging. Built a secure user authentication system with JWT tokens and password encryption to ensure safe login and registration. Integrated Cloudinary for media storage and designed a responsive, user-friendly interface for smooth chatting experience.",
     demoUrl: "https://ouick-chat.vercel.app/login",
   },
   {
     id: 3,
     title: "Health care : Helathcare Appointment System",
     description:
-     Full-stack web application designed to streamline the medical appointment process for doctors and patients.
-    Features secure, role-based user authentication, online appointment booking, and integrated payments via Razorpay.
-    Provides personalized dashboards for managing schedules, tracking appointment history.",
+     "Full-stack web application designed to streamline the medical appointment process for doctors and patients. Features secure, role-based user authentication, online appointment booking, and integrated payments via Razorpay. Provides personalized dashboards for managing schedules, tracking appointment history.",
     demoUrl: "https://codes-2.onrender.com/",
   },
 ];
