@@ -9,17 +9,21 @@ const projects = [
   },
     {
     id: 2,
-    title: "Basic Block-Chain Simulation Sysytem",
+    title: "QuickChat – Real-Time Messaging Platform",
     description:
-      "Simulates a 4-user blockchain network with SHA-512 encryption. Allows adding transactions with consensus validation, viewing local copies, and simulating attacks to demonstrate blockchain security and P2P consensus.",
-    demoUrl: "https://github.com/Hiteshk81/Basic-Simulation-of-a-Blockchain-System-C-",
+      "Developed a real-time chat web application using MERN stack with Socket.io for instant messaging.
+      Built a secure user authentication system with JWT tokens and password encryption to ensure safe login and registration.
+      Integrated Cloudinary for media storage and designed a responsive, user-friendly interface for smooth chatting experience.",
+    demoUrl: "https://ouick-chat.vercel.app/login",
   },
   {
     id: 3,
-    title: "Hotel Mnagement System",
+    title: "Health care : Helathcare Appointment System",
     description:
-      "Developed a system to simplify staff tasks like check-ins, check-outs, room assignments, and billing. I automated processes using PL/SQL procedures to reduce manual errors and to save administrative time and support better decision-making.",
-    demoUrl: "#",
+     Full-stack web application designed to streamline the medical appointment process for doctors and patients.
+    Features secure, role-based user authentication, online appointment booking, and integrated payments via Razorpay.
+    Provides personalized dashboards for managing schedules, tracking appointment history.",
+    demoUrl: "https://codes-2.onrender.com/",
   },
 ];
 
